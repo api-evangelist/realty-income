@@ -2,7 +2,18 @@ aid: realty-income
 url: https://raw.githubusercontent.com/api-evangelist/realty-income/refs/heads/main/apis.yml
 name: Realty Income
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/realty-income.png
 description: 'Fortune 1000 company Realty Income. Public API documentation has not yet been catalogued in the API Evangelist network.'
 created: '2026-05-05'
 modified: '2026-05-05'
